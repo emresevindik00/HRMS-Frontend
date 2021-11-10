@@ -22,4 +22,4 @@ React Camp HRMS Project
 
 ![Girişyap](https://user-images.githubusercontent.com/81774369/141185497-dad7a574-4158-4cf1-8a2c-93e1ac0ca6c2.PNG)
 
-[Kayıtol](https://user-images.githubusercontent.com/81774369/141185518-ef889c14-d2ec-447c-ac4e-d9ebf7a97ce1.PNG)
+![Kayıtol](https://user-images.githubusercontent.com/81774369/141185518-ef889c14-d2ec-447c-ac4e-d9ebf7a97ce1.PNG)

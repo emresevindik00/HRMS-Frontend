@@ -1,0 +1,50 @@
+.job-list {
+    margin-right: 420px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.container{
+    text-decoration: none;
+    color:rgb(84, 114, 143);
+    margin-top:-80px;
+}
+
+.container .container-text ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 400px;
+}
+
+.container .container-text ul li{
+    padding-right: 200px;
+}
+
+hr {
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 0.5em;
+    margin-left: -800px;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.card-footer{
+    margin-top: 32%;
+}
+
+.approve-button{
+    
+    display: grid;  
+}
+
+.approve-button:hover{
+    background-color:darkgreen;
+    border-radius: 5px;
+}
